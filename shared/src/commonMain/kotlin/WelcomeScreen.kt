@@ -12,8 +12,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import moe.tlaster.precompose.navigation.Navigator
+
 @Composable()
-internal fun welcomeScreen(){
+internal fun welcomeScreen(navigator: Navigator) {
 
     Box(
         contentAlignment = Alignment.Center,
@@ -38,7 +40,7 @@ internal fun welcomeScreen(){
                     )
                     Button(
                         modifier = Modifier.padding(all = 10.dp),
-                        onClick = {  }
+                        onClick = { navigator.navigate(route = "/quiz") }
 
                     ) {
                         Text("Start the Quiz")

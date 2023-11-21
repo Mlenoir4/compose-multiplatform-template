@@ -9,8 +9,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import moe.tlaster.precompose.navigation.Navigator
+
 @Composable()
-internal fun scoreScreen(score: String){
+internal fun scoreScreen(navigator: Navigator, score: String){
 
     Box(
     ) {
