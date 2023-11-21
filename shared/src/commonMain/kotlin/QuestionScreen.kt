@@ -1,5 +1,7 @@
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Button
@@ -24,9 +26,12 @@ internal fun questionScreen(quiz: Quiz) {
 
     Card(
         shape = RoundedCornerShape(8.dp),
-        modifier = Modifier.padding(10.dp),) {
+        modifier = Modifier.padding(10.dp)
+        ) {
 
-        Column(horizontalAlignment = Alignment.CenterHorizontally) {
+        Column(
+            horizontalAlignment = Alignment.CenterHorizontally,
+        ) {
             Text(
                 text = quiz.questions[questionProgress].label,
                 fontSize = 30.sp,

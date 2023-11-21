@@ -1,3 +1,2 @@
-data class Quiz(var questions: List<Question>) {
-
-}
+@kotlinx.serialization.Serializable
+data class Quiz(var questions: List<Question>)
