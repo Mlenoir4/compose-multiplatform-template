@@ -15,7 +15,6 @@ private val repository = QuizRepository()
 
 @Composable
 internal fun App() {
-
     MaterialTheme {
 
        Row(

@@ -12,7 +12,7 @@ import androidx.compose.ui.unit.sp
 import moe.tlaster.precompose.navigation.Navigator
 
 @Composable()
-internal fun scoreScreen(navigator: Navigator, score: String){
+internal fun scoreScreen(navigator: Navigator, score: String, pseudo: String){
 
     Box(
     ) {
@@ -24,6 +24,11 @@ internal fun scoreScreen(navigator: Navigator, score: String){
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                     Text(
                         text = score,
+                        fontSize = 30.sp,
+                        modifier = Modifier.padding(all = 10.dp)
+                    )
+                    Text(
+                        text = pseudo,
                         fontSize = 30.sp,
                         modifier = Modifier.padding(all = 10.dp)
                     )

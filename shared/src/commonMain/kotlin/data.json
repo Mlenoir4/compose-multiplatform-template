@@ -1,0 +1,565 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "label": "Quel acteur a remporté l'Oscar du meilleur acteur en 2020 pour son rôle dans le film 'Joker' ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Leonardo DiCaprio" },
+        { "id": 2, "label": "Joaquin Phoenix" },
+        { "id": 3, "label": "Brad Pitt" },
+        { "id": 4, "label": "Adam Driver" }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1994 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Titanic" },
+        { "id": 2, "label": "Forrest Gump" },
+        { "id": 3, "label": "La Liste de Schindler" },
+        { "id": 4, "label": "Le Patient anglais" }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Qui a réalisé le film 'Pulp Fiction' sorti en 1994 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Quentin Tarantino" },
+        { "id": 2, "label": "Martin Scorsese" },
+        { "id": 3, "label": "Steven Spielberg" },
+        { "id": 4, "label": "David Fincher" }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Quel film a été récompensé par le premier Oscar du meilleur film en 1929 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "Gone with the Wind" },
+        { "id": 2, "label": "The Jazz Singer" },
+        { "id": 3, "label": "All Quiet on the Western Front" },
+        { "id": 4, "label": "Wings" }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Quelle actrice a remporté l'Oscar de la meilleure actrice pour son rôle dans 'La La Land' en 2017 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Cate Blanchett" },
+        { "id": 2, "label": "Meryl Streep" },
+        { "id": 3, "label": "Emma Stone" },
+        { "id": 4, "label": "Jennifer Lawrence" }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "Quel réalisateur a dirigé le film 'Pulp Fiction' sorti en 1994 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Quentin Tarantino" },
+        { "id": 2, "label": "Christopher Nolan" },
+        { "id": 3, "label": "Martin Scorsese" },
+        { "id": 4, "label": "Steven Spielberg" }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "Quel acteur a joué le rôle de Wolverine dans la franchise X-Men ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Robert Downey Jr." },
+        { "id": 2, "label": "Hugh Jackman" },
+        { "id": 3, "label": "Chris Evans" },
+        { "id": 4, "label": "Ryan Reynolds" }
+      ]
+    },
+    {
+      "id": 8,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1995 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "Forrest Gump" },
+        { "id": 2, "label": "The Shawshank Redemption" },
+        { "id": 3, "label": "Pulp Fiction" },
+        { "id": 4, "label": "Schindler's List" }
+      ]
+    },
+    {
+      "id": 9,
+      "label": "Qui a réalisé le film 'Inception' sorti en 2010 ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Quentin Tarantino" },
+        { "id": 2, "label": "Christopher Nolan" },
+        { "id": 3, "label": "Martin Scorsese" },
+        { "id": 4, "label": "David Fincher" }
+      ]
+    },
+    {
+      "id": 10,
+      "label": "Quel acteur a interprété le personnage de Tony Montana dans le film 'Scarface' sorti en 1983 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Al Pacino" },
+        { "id": 2, "label": "Robert De Niro" },
+        { "id": 3, "label": "Mickey Rourke" },
+        { "id": 4, "label": "Joe Pesci" }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 2008 ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "No Country for Old Men" },
+        { "id": 2, "label": "Slumdog Millionaire" },
+        { "id": 3, "label": "There Will Be Blood" },
+        { "id": 4, "label": "Atonement" }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "Qui a réalisé le film 'The Dark Knight Rises' sorti en 2012 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "Christopher Nolan" },
+        { "id": 2, "label": "Steven Spielberg" },
+        { "id": 3, "label": "Joss Whedon" },
+        { "id": 4, "label": "Christopher Nolan" }
+      ]
+    },
+    {
+      "id": 13,
+      "label": "Quel acteur a remporté l'Oscar du meilleur acteur en 2020 pour son rôle dans 'Joker' ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Joaquin Phoenix" },
+        { "id": 2, "label": "Jared Leto" },
+        { "id": 3, "label": "Heath Ledger" },
+        { "id": 4, "label": "Robert De Niro" }
+      ]
+    },
+    {
+      "id": 14,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1972 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "The Godfather" },
+        { "id": 2, "label": "A Clockwork Orange" },
+        { "id": 3, "label": "The French Connection" },
+        { "id": 4, "label": "Patton" }
+      ]
+    },
+    {
+      "id": 15,
+      "label": "Qui a réalisé le film 'E.T. the Extra-Terrestrial' sorti en 1982 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "Steven Spielberg" },
+        { "id": 2, "label": "George Lucas" },
+        { "id": 3, "label": "James Cameron" },
+        { "id": 4, "label": "Steven Spielberg" }
+      ]
+    },
+    {
+      "id": 16,
+      "label": "Quel acteur a joué le rôle de Neo dans 'The Matrix' sorti en 1999 ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Keanu Reeves" },
+        { "id": 2, "label": "Tom Cruise" },
+        { "id": 3, "label": "Will Smith" },
+        { "id": 4, "label": "Brad Pitt" }
+      ]
+    },
+    {
+      "id": 17,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 2014 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "12 Years a Slave" },
+        { "id": 2, "label": "Gravity" },
+        { "id": 3, "label": "Birdman" },
+        { "id": 4, "label": "The Grand Budapest Hotel" }
+      ]
+    },
+    {
+      "id": 18,
+      "label": "Qui a réalisé le film 'The Shining' sorti en 1980 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Stanley Kubrick" },
+        { "id": 2, "label": "Alfred Hitchcock" },
+        { "id": 3, "label": "John Carpenter" },
+        { "id": 4, "label": "Martin Scorsese" }
+      ]
+    },
+    {
+      "id": 19,
+      "label": "Quel acteur a remporté l'Oscar du meilleur acteur en 2014 pour son rôle dans 'Dallas Buyers Club' ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Brad Pitt" },
+        { "id": 2, "label": "Matthew McConaughey" },
+        { "id": 3, "label": "Joaquin Phoenix" },
+        { "id": 4, "label": "Leonardo DiCaprio" }
+      ]
+    },
+    {
+      "id": 20,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1991 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "Dances with Wolves" },
+        { "id": 2, "label": "Goodfellas" },
+        { "id": 3, "label": "Awakenings" },
+        { "id": 4, "label": "The Silence of the Lambs" }
+      ]
+    },
+    {
+      "id": 21,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1972 ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "The Godfather" },
+        { "id": 2, "label": "The French Connection" },
+        { "id": 3, "label": "One Flew Over the Cuckoo's Nest" },
+        { "id": 4, "label": "Rocky" }
+      ]
+    },
+    {
+      "id": 22,
+      "label": "Quel réalisateur a dirigé le film 'Blade Runner' sorti en 1982 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Ridley Scott" },
+        { "id": 2, "label": "Steven Spielberg" },
+        { "id": 3, "label": "James Cameron" },
+        { "id": 4, "label": "George Lucas" }
+      ]
+    },
+    {
+      "id": 23,
+      "label": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2019 pour son rôle dans 'The Favourite' ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Lady Gaga" },
+        { "id": 2, "label": "Olivia Colman" },
+        { "id": 3, "label": "Emma Stone" },
+        { "id": 4, "label": "Rachel Weisz" }
+      ]
+    },
+    {
+      "id": 24,
+      "label": "Quel film a été réalisé par Christopher Nolan et met en vedette Matthew McConaughey en 2014 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "The Prestige" },
+        { "id": 2, "label": "Inception" },
+        { "id": 3, "label": "Dunkirk" },
+        { "id": 4, "label": "Interstellar" }
+      ]
+    },
+    {
+      "id": 25,
+      "label": "Quel film a été réalisé par Quentin Tarantino et a remporté la Palme d'Or à Cannes en 1994 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Pulp Fiction" },
+        { "id": 2, "label": "Reservoir Dogs" },
+        { "id": 3, "label": "Kill Bill" },
+        { "id": 4, "label": "Django Unchained" }
+      ]
+    },
+    {
+      "id": 26,
+      "label": "Quel acteur a interprété le personnage principal dans le film 'The Dark Knight' réalisé par Christopher Nolan en 2008 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Christian Bale" },
+        { "id": 2, "label": "Heath Ledger" },
+        { "id": 3, "label": "Tom Hardy" },
+        { "id": 4, "label": "Michael Caine" }
+      ]
+    },
+    {
+      "id": 27,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 2016 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "La La Land" },
+        { "id": 2, "label": "Moonlight" },
+        { "id": 3, "label": "Manchester by the Sea" },
+        { "id": 4, "label": "Spotlight" }
+      ]
+    },
+    {
+      "id": 28,
+      "label": "Qui a réalisé le film 'Forrest Gump' sorti en 1994 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Steven Spielberg" },
+        { "id": 2, "label": "Robert Zemeckis" },
+        { "id": 3, "label": "Frank Darabont" },
+        { "id": 4, "label": "James Cameron" }
+      ]
+    },
+    {
+      "id": 29,
+      "label": "Quel acteur a remporté l'Oscar du meilleur acteur en 2015 pour son rôle dans 'The Revenant' ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Leonardo DiCaprio" },
+        { "id": 2, "label": "Matthew McConaughey" },
+        { "id": 3, "label": "Joaquin Phoenix" },
+        { "id": 4, "label": "Eddie Redmayne" }
+      ]
+    },
+    {
+      "id": 30,
+      "label": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2009 pour son rôle dans 'The Reader' ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Kate Winslet" },
+        { "id": 2, "label": "Cate Blanchett" },
+        { "id": 3, "label": "Sandra Bullock" },
+        { "id": 4, "label": "Meryl Streep" }
+      ]
+    },
+    {
+      "id": 31,
+      "label": "Quel réalisateur a dirigé le film 'The Shawshank Redemption' sorti en 1994 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "Christopher Nolan" },
+        { "id": 2, "label": "Frank Darabont" },
+        { "id": 3, "label": "Martin Scorsese" },
+        { "id": 4, "label": "Stephen King" }
+      ]
+    },
+    {
+      "id": 32,
+      "label": "Quel film d'animation de Pixar a remporté l'Oscar du meilleur film d'animation en 2009 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Finding Nemo" },
+        { "id": 2, "label": "Toy Story" },
+        { "id": 3, "label": "Wall-E" },
+        { "id": 4, "label": "Up" }
+      ]
+    },
+    {
+      "id": 33,
+      "label": "Quel acteur a joué le rôle de Neo dans 'The Matrix' sorti en 1999 ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Keanu Reeves" },
+        { "id": 2, "label": "Tom Cruise" },
+        { "id": 3, "label": "Will Smith" },
+        { "id": 4, "label": "Brad Pitt" }
+      ]
+    },
+    {
+      "id": 34,
+      "label": "Quel réalisateur a dirigé le film 'The Godfather' sorti en 1972 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Francis Ford Coppola" },
+        { "id": 2, "label": "Quentin Tarantino" },
+        { "id": 3, "label": "Martin Scorsese" },
+        { "id": 4, "label": "Alfred Hitchcock" }
+      ]
+    },
+    {
+      "id": 35,
+      "label": "Quel acteur a joué le rôle de Tony Stark dans les films Iron Man de l'Univers cinématographique Marvel ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Chris Evans" },
+        { "id": 2, "label": "Mark Ruffalo" },
+        { "id": 3, "label": "Robert Downey Jr." },
+        { "id": 4, "label": "Chris Hemsworth" }
+      ]
+    },
+    {
+      "id": 36,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 2000 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "The Green Mile" },
+        { "id": 2, "label": "The Sixth Sense" },
+        { "id": 3, "label": "Gladiator" },
+        { "id": 4, "label": "American Beauty" }
+      ]
+    },
+    {
+      "id": 37,
+      "label": "Qui a réalisé le film 'The Silence of the Lambs' sorti en 1991 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "David Fincher" },
+        { "id": 2, "label": "Quentin Tarantino" },
+        { "id": 3, "label": "Stanley Kubrick" },
+        { "id": 4, "label": "Jonathan Demme" }
+      ]
+    },
+    {
+      "id": 38,
+      "label": "Quel acteur a remporté l'Oscar du meilleur acteur en 2005 pour son rôle dans 'Ray' ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Joaquin Phoenix" },
+        { "id": 2, "label": "Jamie Foxx" },
+        { "id": 3, "label": "Denzel Washington" },
+        { "id": 4, "label": "Leonardo DiCaprio" }
+      ]
+    },
+    {
+      "id": 39,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1975 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "The Godfather Part II" },
+        { "id": 2, "label": "One Flew Over the Cuckoo's Nest" },
+        { "id": 3, "label": "Chinatown" },
+        { "id": 4, "label": "Jaws" }
+      ]
+    },
+    {
+      "id": 40,
+      "label": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2011 pour son rôle dans 'Black Swan' ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Meryl Streep" },
+        { "id": 2, "label": "Natalie Portman" },
+        { "id": 3, "label": "Anne Hathaway" },
+        { "id": 4, "label": "Cate Blanchett" }
+      ]
+    },
+    {
+      "id": 41,
+      "label": "Quel réalisateur a dirigé le film 'The Big Lebowski' sorti en 1998 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Joel and Ethan Coen" },
+        { "id": 2, "label": "Quentin Tarantino" },
+        { "id": 3, "label": "Christopher Nolan" },
+        { "id": 4, "label": "Martin Scorsese" }
+      ]
+    },
+    {
+      "id": 42,
+      "label": "Quel acteur a remporté l'Oscar du meilleur acteur en 2016 pour son rôle dans 'The Revenant' ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Leonardo DiCaprio" },
+        { "id": 2, "label": "Matthew McConaughey" },
+        { "id": 3, "label": "Joaquin Phoenix" },
+        { "id": 4, "label": "Eddie Redmayne" }
+      ]
+    },
+    {
+      "id": 43,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1986 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Platoon" },
+        { "id": 2, "label": "Rain Man" },
+        { "id": 3, "label": "Out of Africa" },
+        { "id": 4, "label": "A Room with a View" }
+      ]
+    },
+    {
+      "id": 44,
+      "label": "Qui a réalisé le film 'The Departed' sorti en 2006 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Martin Scorsese" },
+        { "id": 2, "label": "Christopher Nolan" },
+        { "id": 3, "label": "Quentin Tarantino" },
+        { "id": 4, "label": "Steven Spielberg" }
+      ]
+    },
+    {
+      "id": 45,
+      "label": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 1999 pour son rôle dans 'Shakespeare in Love' ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Cate Blanchett" },
+        { "id": 2, "label": "Gwyneth Paltrow" },
+        { "id": 3, "label": "Judi Dench" },
+        { "id": 4, "label": "Julia Roberts" }
+      ]
+    },
+    {
+      "id": 46,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 2014 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Gravity" },
+        { "id": 2, "label": "12 Years a Slave" },
+        { "id": 3, "label": "Birdman" },
+        { "id": 4, "label": "The Grand Budapest Hotel" }
+      ]
+    },
+    {
+      "id": 47,
+      "label": "Quel acteur a joué le rôle de Vito Corleone dans le film 'The Godfather' sorti en 1972 ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Al Pacino" },
+        { "id": 2, "label": "Marlon Brando" },
+        { "id": 3, "label": "Robert De Niro" },
+        { "id": 4, "label": "Joe Pesci" }
+      ]
+    },
+    {
+      "id": 48,
+      "label": "Quel réalisateur a dirigé le film 'The Revenant' sorti en 2015 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Alejandro González Iñárritu" },
+        { "id": 2, "label": "Christopher Nolan" },
+        { "id": 3, "label": "Quentin Tarantino" },
+        { "id": 4, "label": "David Fincher" }
+      ]
+    },
+    {
+      "id": 49,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1999 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "Saving Private Ryan" },
+        { "id": 2, "label": "Shakespeare in Love" },
+        { "id": 3, "label": "The Thin Red Line" },
+        { "id": 4, "label": "American Beauty" }
+      ]
+    },
+    {
+      "id": 50,
+      "label": "Quel réalisateur a dirigé le film 'The Social Network' sorti en 2010 ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Quentin Tarantino" },
+        { "id": 2, "label": "Christopher Nolan" },
+        { "id": 3, "label": "David Fincher" },
+        { "id": 4, "label": "Martin Scorsese" }
+      ]
+    },
+    {
+      "id": 51,
+      "label": "Quel film a remporté l'Oscar du meilleur film en 1950 ?",
+      "correct_answer_id": 4,
+      "answers": [
+        { "id": 1, "label": "Sunset Boulevard" },
+        { "id": 2, "label": "All About Eve" },
+        { "id": 3, "label": "On the Waterfront" }
+      ]
+    }
+  ]
+}
+
