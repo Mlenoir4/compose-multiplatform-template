@@ -1,45 +1,30 @@
+import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material.Card
 import androidx.compose.material.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.remember
-import androidx.compose.runtime.setValue
-import org.jetbrains.compose.resources.ExperimentalResourceApi
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 
 private val repository = QuizRepository()
 
 
+
+
 @Composable
-fun App() {
-    var questionsProgress by remember { mutableStateOf(0) }
-
-
+internal fun App() {
     MaterialTheme {
-        val questions = repository.questionState.collectAsState()
-        val quizExemple =  Quiz(listOf(
-            Question(
-                1,
-                "Android is a great platform ?",
-                1,
-                listOf(Answer(1, "YES"), Answer(2, "NO"), Answer(3, "HIHIHI"))
-            ),
-            Question(
-                1,
-                "Android is a bad platform ?",
-                2,
-                listOf(Answer(1, "YES"), Answer(2, "NO"))
-            )
-        ))
-        val quiz = Quiz(questions.value)
-        if(questions.value.isNotEmpty()) {
-            questionScreen(quiz)
-        }
-        //WelcomeScreen()
-        //ScoreScreen("10/20")
-        //questionScreen(quiz)
-    }
-}
 
+       Row(
+           modifier = Modifier.fillMaxSize().background(Color(221,221,251)),
+
+       ){
+            rootNavHost()
+       }
+    }
+
+}
 
 expect fun getPlatformName(): String
