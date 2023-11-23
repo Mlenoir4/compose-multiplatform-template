@@ -33,9 +33,8 @@ internal fun questionScreen(navigator: Navigator, quiz: Quiz, pseudo: String) {
     var selectedAnswer by remember { mutableStateOf(0) }
     var score by remember { mutableStateOf(0) }
     val test = arrayOf("A", "B", "C", "D")
-    Column(
 
-    ) {
+    Column {
         Card(
             shape = RoundedCornerShape(8.dp),
             modifier = Modifier.padding(20.dp, 80.dp),
